@@ -1,3 +1,6 @@
 aaaaaaaaa
 ligne créée dans branche2
 ligne créée dans branche4
+ligne créée dans branche5
+ligne créée dans branche4
+ligne créée dans branche5
